@@ -100,7 +100,7 @@
 }
 
 .ex-12-button:hover .ex-12-top-white {
-    animation: top-white 11s linear;
+    animation: top-white 12s linear;
 }
 
 @keyframes top-white {
@@ -116,7 +116,7 @@
 }
 
 .ex-12-button:hover .ex-12-bottom-white {
-    animation: bottom-white 11s linear;
+    animation: bottom-white 12s linear;
 }
 
 @keyframes bottom-white {
